@@ -2,12 +2,16 @@ import logging
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler, CallbackQueryHandler
 
+logging.basicConfig(level=logging.INFO)
+
 TOKEN = "8944172746:AAEfxxdztcV3ccxPs-9f7TvK86yrN79fCu8"
 ADMIN_CHAT_ID = None
 CARD_NUMBER = "6219-8619-9707-5451"
 CARD_NAME = "Abbas Asadpour"
 CARD_BANK = "Bank Saman"
+
 CHOOSE_PRODUCT, CHOOSE_WEIGHT, GET_NAME, GET_PHONE, GET_ADDRESS, GET_RECEIPT = range(6)
+
 PRODUCTS = {
     "1": {"name": "Khormaye Mazafati", "price": 0},
     "2": {"name": "Keshmesh Sabz", "price": 0},
@@ -15,34 +19,44 @@ PRODUCTS = {
     "4": {"name": "Khormaye Piyaram", "price": 0},
     "5": {"name": "Toot Khoshk", "price": 0},
 }
-logging.basicConfig(level=logging.INFO)
+
 user_orders = {}
 
-async def start(update, context):
-    keyboard = [[KeyboardButton("Order")],[KeyboardButton("Products"), KeyboardButton("Contact")],[KeyboardButton("Help")]]
-    await update.message.reply_text("Welcome to Asadpour Dry Fruits!\n\nFresh dates from garden\nVacuum packaging\nShipping all over Iran\nMinimum 1 kg\n\nChoose:", reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True))
+async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    keyboard = [
+        [KeyboardButton("Order")],
+        [KeyboardButton("Products"), KeyboardButton("Contact")],
+        [KeyboardButton("Help")]
+    ]
+    await update.message.reply_text(
+        "Welcome to Asadpour Dry Fruits!\nFresh dates from garden\nVacuum packaging\nShipping all over Iran\nMinimum 1 kg",
+        reply_markup=ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
+    )
 
-async def show_products(update, context):
+async def show_products(update: Update, context: ContextTypes.DEFAULT_TYPE):
     text = "Products:\n\n"
     for key, p in PRODUCTS.items():
         price = f"{p['price']:,} T" if p['price'] > 0 else "Contact us"
         text += f"{key}. {p['name']} - {price}/kg\n"
-    text += "\nVacuum packaging | Min 1kg | All Iran"
     await update.message.reply_text(text)
 
-async def contact_us(update, context):
-    await update.message.reply_text("Asadpour Dry Fruits\nAbbas Asadpour\nSat-Thu: 8am-9pm\n\nShipping:\nUnder 20kg: buyer pays\n20kg+: free shipping")
+async def contact_us(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text(
+        "Asadpour Dry Fruits\nAbbas Asadpour\nSat-Thu 8am-9pm\nUnder 20kg: buyer pays\n20kg+: free"
+    )
 
-async def help_cmd(update, context):
-    await update.message.reply_text("How to order:\n1. Press Order\n2. Choose product\n3. Enter weight\n4. Enter info\n5. Pay to card\n6. Send receipt\n7. Confirmed!")
+async def help_cmd(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text(
+        "1. Press Order\n2. Choose product\n3. Enter weight\n4. Enter info\n5. Pay\n6. Send receipt"
+    )
 
-async def start_order(update, context):
+async def start_order(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = [[InlineKeyboardButton(p['name'], callback_data=f"p_{k}")] for k, p in PRODUCTS.items()]
     keyboard.append([InlineKeyboardButton("Cancel", callback_data="cancel")])
     await update.message.reply_text("Which product?", reply_markup=InlineKeyboardMarkup(keyboard))
     return CHOOSE_PRODUCT
 
-async def choose_product(update, context):
+async def choose_product(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
     if query.data == "cancel":
@@ -51,15 +65,15 @@ async def choose_product(update, context):
     key = query.data.replace("p_", "")
     product = PRODUCTS[key]
     user_orders[query.from_user.id] = {"product": product}
-    await query.edit_message_text(f"Product: {product['name']}\n\nHow many kg? (example: 3)")
+    await query.edit_message_text(f"Product: {product['name']}\nHow many kg? Example: 3")
     return CHOOSE_WEIGHT
 
-async def choose_weight(update, context):
+async def choose_weight(update: Update, context: ContextTypes.DEFAULT_TYPE):
     try:
         weight = float(update.message.text.replace(",", "."))
         if weight <= 0:
             raise ValueError
-    except:
+    except Exception:
         await update.message.reply_text("Enter a number. Example: 2")
         return CHOOSE_WEIGHT
     order = user_orders[update.message.from_user.id]
@@ -71,7 +85,7 @@ async def choose_weight(update, context):
     await update.message.reply_text(f"Weight: {weight}kg\n{price_text}\n\nYour full name:")
     return GET_NAME
 
-async def get_name(update, context):
+async def get_name(update: Update, context: ContextTypes.DEFAULT_TYPE):
     name = update.message.text.strip()
     if len(name) < 3:
         await update.message.reply_text("Enter full name.")
@@ -80,8 +94,8 @@ async def get_name(update, context):
     await update.message.reply_text(f"Name: {name}\n\nPhone number:")
     return GET_PHONE
 
-async def get_phone(update, context):
-    phone = update.message.text.strip().replace("-","").replace(" ","")
+async def get_phone(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    phone = update.message.text.strip().replace("-", "").replace(" ", "")
     if len(phone) < 10:
         await update.message.reply_text("Valid phone please. Example: 09123456789")
         return GET_PHONE
@@ -89,7 +103,7 @@ async def get_phone(update, context):
     await update.message.reply_text(f"Phone: {phone}\n\nFull address:")
     return GET_ADDRESS
 
-async def get_address(update, context):
+async def get_address(update: Update, context: ContextTypes.DEFAULT_TYPE):
     address = update.message.text.strip()
     if len(address) < 10:
         await update.message.reply_text("More complete address please.")
@@ -103,11 +117,15 @@ async def get_address(update, context):
     shipping = "Free shipping!" if w >= 20 else "Buyer pays shipping"
     amount = f"Amount: {total:,.0f} T" if total > 0 else "Amount TBD"
     await update.message.reply_text(
-        f"Order Summary:\nProduct: {p['name']}\nWeight: {w}kg\nName: {order['name']}\nPhone: {order['phone']}\nAddress: {address}\n\n{shipping}\n{amount}\n\nPayment:\nBank: {CARD_BANK}\nCard: {CARD_NUMBER}\nName: {CARD_NAME}\n\nSend receipt photo after payment."
+        f"Order Summary:\nProduct: {p['name']}\nWeight: {w}kg\n"
+        f"Name: {order['name']}\nPhone: {order['phone']}\nAddress: {address}\n\n"
+        f"{shipping}\n{amount}\n\n"
+        f"Payment:\nBank: {CARD_BANK}\nCard: {CARD_NUMBER}\nName: {CARD_NAME}\n\n"
+        f"Send receipt photo after payment."
     )
     return GET_RECEIPT
 
-async def get_receipt(update, context):
+async def get_receipt(update: Update, context: ContextTypes.DEFAULT_TYPE):
     uid = update.message.from_user.id
     order = user_orders.get(uid, {})
     if not update.message.photo:
@@ -117,18 +135,31 @@ async def get_receipt(update, context):
     if ADMIN_CHAT_ID:
         p = order.get("product", {})
         total = order.get("total", 0)
-        caption = f"NEW ORDER\nProduct: {p.get('name','-')}\nWeight: {order.get('weight','-')}kg\nAmount: {total:,.0f}T\nName: {order.get('name','-')}\nPhone: {order.get('phone','-')}\nAddress: {order.get('address','-')}\nUser: @{update.message.from_user.username or 'none'}"
-        await context.bot.send_photo(chat_id=ADMIN_CHAT_ID, photo=update.message.photo[-1].file_id, caption=caption)
-    await update.message.reply_text("Order registered!\nConfirmed within 2 hours. Thank you!")
+        caption = (
+            f"NEW ORDER\n"
+            f"Product: {p.get('name', '-')}\n"
+            f"Weight: {order.get('weight', '-')}kg\n"
+            f"Amount: {total:,.0f}T\n"
+            f"Name: {order.get('name', '-')}\n"
+            f"Phone: {order.get('phone', '-')}\n"
+            f"Address: {order.get('address', '-')}\n"
+            f"User: @{update.message.from_user.username or 'none'}"
+        )
+        await context.bot.send_photo(
+            chat_id=ADMIN_CHAT_ID,
+            photo=update.message.photo[-1].file_id,
+            caption=caption
+        )
+    await update.message.reply_text("Order registered! Confirmed within 2 hours. Thank you!")
     user_orders.pop(uid, None)
     return ConversationHandler.END
 
-async def cancel(update, context):
+async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_orders.pop(update.message.from_user.id, None)
     await update.message.reply_text("Cancelled.")
     return ConversationHandler.END
 
-async def set_admin(update, context):
+async def set_admin(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global ADMIN_CHAT_ID
     ADMIN_CHAT_ID = update.message.chat_id
     await update.message.reply_text(f"You are admin! ID: {ADMIN_CHAT_ID}")
@@ -144,7 +175,7 @@ def main():
             GET_PHONE: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_phone)],
             GET_ADDRESS: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_address)],
             GET_RECEIPT: [MessageHandler(filters.PHOTO, get_receipt)],
-        app = Application.builder().token(TOKEN).updater(None).build()
+        },
         fallbacks=[CommandHandler("cancel", cancel)],
     )
     app.add_handler(CommandHandler("start", start))
