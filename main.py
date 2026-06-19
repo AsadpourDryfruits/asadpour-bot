@@ -1,1275 +1,170 @@
-
-Claude is responding
-از قابلیت های تلگرام پرمیوم بگو برای تجارت و معرفی محصول چطوری استفاده کنم
-
-18 Jun
-
-Searched the web
-Searched the web
-در اینجا راهنمای کاملی برای استفاده از تلگرام پرمیوم در تجارت و معرفی محصول آورده‌ام:
-
-🔷 تلگرام پرمیوم برای تجارت
-۱. پروفایل بیزینس حرفه‌ای
-با تلگرام پرمیوم/بیزینس می‌توانید یک صفحه تجاری کامل با آدرس، ساعت کاری، توضیح خدمات و قابلیت دیده‌شدن در جستجوی محلی تلگرام راه‌اندازی کنید. این برای فروشگاه‌ها، آرایشگاه‌ها، کافه‌ها و هر کسب‌وکاری که مشتری نیاز به اطلاعات سریع دارد، ایده‌آل است. 
-Telegram Agency
-
-۲. ارسال فایل‌های سنگین برای معرفی محصول
-تلگرام پرمیوم امکان آپلود فایل تا ۴ گیگابایت را فراهم می‌کند. یعنی می‌توانید ویدیوهای تبلیغاتی با کیفیت بالا، کاتالوگ محصولات، و فایل‌های معرفی را مستقیماً برای مشتریان ارسال کنید. 
-AFFDude
-
-۳. پیام‌های خودکار و پاسخ سریع
-اکانت بیزینس تلگرام امکان تنظیم ساعت کاری، پیام خوش‌آمدگویی، پاسخ‌های سریع از پیش تعریف‌شده، و یکپارچه‌سازی با ربات‌های هوشمند را می‌دهد. 
-SendPulse
-
-۴. فروش مستقیم در اپ
-تلگرام به عنوان بستری برای فروش محصولات دیجیتال و فیزیکی عمل می‌کند — می‌توانید محصولات را معرفی کرده و تراکنش‌ها را مستقیم درون اپ انجام دهید، بدون نیاز به ابزار جانبی. 
-Businessage
-
-📣 استراتژی‌های معرفی محصول
-کانال تخصصی بسازید
-برخلاف شبکه‌های اجتماعی که الگوریتم دسترسی شما را محدود می‌کند، پیام‌های تلگرام مستقیماً به اینباکس مشترکین می‌رسد و نرخ دیده‌شدن بالاتری دارد. 
-BM Magazine
-
-محتوای انحصاری ارائه دهید
-تلگرام به برندها اجازه می‌دهد با دسترسی زودهنگام به محصولات، تخفیف‌های خصوصی، یا اخبار ویژه، حس انحصاری‌بودن ایجاد کنند. وقتی مخاطبان احساس ارزشمندبودن کنند، تعامل بیشتری دارند. 
-Hdmarketing
-
-ربات پشتیبانی و فروش
-ربات‌های خدمات مشتری می‌توانند سوالات رایج را پاسخ دهند، اطلاعات محصول بدهند و کاربران را در فرآیند خرید راهنمایی کنند. 
-BM Magazine
-
-تبلیغات هدفمند
-تبلیغات تلگرام بر اساس زبان، علایق و کانال‌هایی که کاربران دنبال می‌کنند هدف‌گذاری می‌شود و از مدل CPM (هزینه به ازای هر هزار نمایش) استفاده می‌کند. 
-OnlySocial
-
-✅ نکات کاربردی
-محتوای ویدیویی معرفی محصول را با کیفیت بالا ارسال کنید (پرمیوم محدودیت حجم را بر می‌دارد)
-گیواوی و مسابقه برگزار کنید — تلگرام برای فوروارد و اشتراک‌گذاری لینک بسیار آسان است
-از مدل اشتراک ماهانه برای محتوای ویژه (آموزش، خبرنامه، خدمات اختصاصی) استفاده کنید تا درآمد تکرارشونده ایجاد شود. 
-Businessage
-آنالیتیکس کانال را با ابزارهای خارجی ترکیب کنید تا نرخ تبدیل را بسنجید
-اگر بخواهید روی یک حوزه خاص (مثل فروش فیزیکی، محصولات دیجیتال، یا خدمات) بیشتر توضیح بدم، بگو!
-
-بیزینس ما بیشتر خرما خشکبار و کشمش و محصولات کشاورزی هستش
-
-18 Jun
-خوب! پس بذارید کاملاً متناسب با محصولات کشاورزی و خشکبار برات توضیح بدم:
-
-🌴 استراتژی تلگرام برای فروش خرما و خشکبار
-📸 معرفی محصول با تصویر و ویدیو
-ویدیوی برداشت خرما از باغ — اعتماد‌سازی قوی می‌کند
-عکس محصول روی ترازو با وزن و قیمت
-مقایسه کیفیت‌های مختلف (مثلاً مضافتی، کبکاب، پیارم)
-ویدیوی بسته‌بندی محصول — نشان‌دادن بهداشت و حرفه‌ای‌بودن
-🤖 ربات فروش بسازید
-یک ربات ساده که:
-
-لیست محصولات و قیمت روز را نشان بدهد
-سفارش بگیرد
-هزینه ارسال را حساب کند
-فاکتور بفرستد
-📦 کانال + گروه ترکیبی
-کانال: اعلام موجودی، قیمت روز، پیشنهادات ویژه
-گروه: ارتباط مستقیم با مشتریان، سوال‌وجواب، نظرات
-💡 ایده‌های محتوایی مخصوص خشکبار
-محتوا	هدف
-"خرمای امروز مستقیم از باغ رسید"	فوریت و تازگی
-ارزش غذایی خرما/کشمش	جلب اعتماد
-دستور پخت با خرما	افزایش تعامل
-پک هدیه ویژه اعیاد	فروش فصلی
-تفاوت انواع خرما	آموزش + فروش
-📦 پرمیوم برای خشکبار چه فایده‌ای دارد؟
-آپلود ۴ گیگ: کاتالوگ کامل محصولات با عکس‌های باکیفیت ارسال کنید
-
-پیام خودکار: وقتی مشتری پیام می‌دهد، فوری لیست قیمت بفرستد
-
-پروفایل بیزینس: آدرس انبار، ساعت سفارش‌گیری، لینک سفارش
-
-می‌خوای یه نقشه راه گام‌به‌گام برای راه‌اندازی کانال تلگرام برای کسب‌وکارت بسازم؟ یا می‌خوای روی یه بخش خاص مثل ربات فروش یا محتوا بیشتر کار کنیم؟
-
-من کانال ایجاد کردم با ادمین رباط ولی برای فروش و سفارش گیری کاری نکردم میخوام مشتری مثلا از اینستاگرام و واتساپ یا تلگرام درخواست خرید میکنه با لینک وارد کانال بشه و خرید کنه
-
-18 Jun
-عالیه! پس هدفت اینه که یه فانل فروش بسازی. بذار مسیر کامل رو طراحی کنیم:
-
-🔄 مسیر مشتری (فانل فروش)
-اینستاگرام / واتساپ / تلگرام
-         ↓
-    لینک کانال تلگرام
-         ↓
-    مشتری محصول می‌بینه
-         ↓
-    روی دکمه "سفارش" می‌زنه
-         ↓
-    ربات سفارش می‌گیره
-         ↓
-    پرداخت + تأیید
-🛠️ چی باید بسازی؟
-۱. کانال تلگرام (داری ✅)
-پست‌های محصول با این فرمت:
-
-🌴 خرمای مضافتی درجه یک
-⚖️ بسته ۱ کیلویی: ۱۵۰,۰۰۰ تومان
-⚖️ بسته ۵ کیلویی: ۶۵۰,۰۰۰ تومان
-✅ ارسال به سراسر ایران
-👇 برای سفارش:
-[دکمه: ثبت سفارش] ← لینک به ربات
-
-۲. ربات سفارش‌گیر (مهم‌ترین قدم)
-ربات باید این کارها را بکند:
-
-نمایش لیست محصولات
-انتخاب محصول و تعداد
-گرفتن نام، آدرس، شماره تماس
-نمایش مبلغ نهایی
-ارسال شماره کارت برای پرداخت
-اطلاع به ادمین (تو) برای تأیید
-۳. لینک ورودی از اینستاگرام/واتساپ
-بیو اینستاگرام:
-
-🛒 سفارش آنلاین: t.me/RobotName
-📢 کانال محصولات: t.me/ChannelName
-❓ یه سوال مهم
-ربات فعلی‌ات با چه ابزاری ساخته شده؟
-
-@BotFather (ربات خام تلگرام)
-ربات‌ساز ایرانی (مثل چت‌افزار، ایتا، روبیکا)
-ابزار خارجی (ManyChat, Botpress)
-بگو تا بگم دقیقاً چطور ربات فروش رو روش اضافه کنی! 🎯
-
-@MissRose_bot
-این رباط هستش
-
-04:54
-MissRose یه ربات مدیریت گروه هست، نه ربات فروش! 😊
-
-یعنی کارش اینه که:
-
-اسپم حذف کنه
-ادمین گروه باشه
-خوش‌آمد بگه به اعضای جدید
-برای فروش و سفارش‌گیری به این نیاز داری:
-گزینه ۱ - ربات‌ساز ایرانی (ساده‌ترین)
-چت‌افزار یا ربات‌پلاس — بدون کدنویسی، فقط با کلیک ربات فروش می‌سازی
-
-گزینه ۲ - @Shop_bot تلگرام
-ربات رسمی تلگرام برای فروشگاه — نسبتاً ساده
-
-گزینه ۳ - ساخت ربات اختصاصی
-یه برنامه‌نویس ربات سفارشی برات بسازه — حرفه‌ای‌ترین حالت
-
-پیشنهاد من برای شروع سریع:
-با توجه به کسب‌وکار خشکبارت، چت‌افزار بهترین گزینه‌ست چون:
-
-فارسی و ایرانیه
-بدون کدنویسی
-ربات فروش با درگاه پرداخت ایرانی داره
-پشتیبانی فارسی داره
-می‌خوای گام‌به‌گام بگم چطور توی چت‌افزار ربات فروش خشکبارت رو بسازی؟
-
-رباط فروش رو میتونم تو همین گروه اضافه کنم
-
-04:54
-بله! می‌تونی ربات فروش رو به همون گروه/کانال اضافه کنی. ولی یه نکته مهم:
-
-ساختار پیشنهادی
-کانال (فقط معرفی محصول + عکس + قیمت)
-↓ دکمه "ثبت سفارش"
-ربات فروش (سفارش‌گیری جداگانه در پی‌وی)
-
-یعنی ربات فروش جداست از MissRose، ولی لینکش رو توی همون کانال می‌ذاری.
-
-مشتری عکس محصول رو توی کانال می‌بینه، روی دکمه می‌زنه، میره توی پی‌وی ربات و اونجا سفارش می‌ده.
-
-سوال مهم
-کانالت الان چه محتوایی داره؟
-
-فقط عکس محصوله؟
-قیمت‌گذاری شده؟
-چند تا عضو داره؟
-بگو تا دقیق‌ترین مسیر رو بهت بگم که سریع‌ترین راه برای شروع فروش چیه! 🎯
-
-تازه کانال ایجاد کردم 
-قیمت گذاری نشده
-5 نفر عضو داره
-عکس و فیلم دارم کم کم اضافه می‌کنم
-
-04:56
-خوبه! پس از صفر شروع می‌کنیم. یه مسیر ساده و عملی:
-
-📋 اولویت‌بندی کارها
-هفته اول — پایه‌گذاری
-۱. کانال رو کامل کن
-
-عکس پروفایل (لوگو یا عکس محصول)
-بیو کانال بنویس مثلاً:
-🌴 خرما | کشمش | خشکبار درجه یک
-📦 ارسال به سراسر ایران
-📞 سفارش: @RobotName
-۲. اول محتوا، بعد فروش
-قبل از ربات فروش، ۱۰-۱۵ پست محصول بذار تا کانال خلوت نباشه
-
-هفته دوم — ربات فروش
-بعد از اینکه کانال یکم محتوا داشت، ربات فروش اضافه می‌کنیم
-
-📸 فرمت پست محصول
-🌴 خرمای مضافتی
-✅ درجه یک | مستقیم از باغ
-⚖️ ۱ کیلو: xxx تومان
-⚖️ ۳ کیلو: xxx تومان
-📦 ارسال رایگان بالای ۵ کیلو
-👇 سفارش بده
-❓ یه سوال
-قیمت‌گذاری محصولاتت مشخصه؟ چون اولین قدم عملی اینه که لیست محصولات و قیمت‌ها رو آماده کنیم تا پست‌ها رو بسازیم. 🎯
-
-فعلا نه صبر کنید اول من چندتا رو انتخاب کنم بعد 
-و یه سوال امکان تغییر قیمت هم داره؟
-
-04:58
-بله صد در صد! 😊
-
-قیمت‌ها رو هر وقت بخوای می‌تونی تغییر بدی، چون:
-
-پست‌های تلگرام قابل ویرایش هستن
-کافیه روی پست بزنی Edit و قیمت جدید بنویسی
-مشتری هم همون لحظه قیمت جدید رو می‌بینه
-پس نگران تغییر قیمت نباش، هر روز یا هر هفته می‌تونی آپدیت کنی — مخصوصاً برای خشکبار که قیمت بازار نوسان داره.
-
-باشه، صبر می‌کنم تا محصولاتت رو انتخاب کنی! 🌴
-
-هر وقت آماده شدی بگو، با هم پست‌ها و ربات فروش رو می‌سازیم.
-
-Ok
-
-04:58
-باشه! 👍
-
-هر وقت لیست محصولات و قیمت‌هات آماده شد، اینجا بگو تا با هم شروع کنیم. 🌴
-
-می‌تونی راهنمایی کنی که من عکس محصول رو به چه شکلی بزارم آیا با نوشته باشه یا فقط عکس محصولو بذارم و مشتری انتخاب کنم کثر محصولات ما یا فله هستند یا بسته‌بندی
-
-05:06
-خوب سوال مهمیه! اینجا بهترین روش رو بگم:
-
-📸 فرمت پیشنهادی پست
-عکس + متن زیرش — نه نوشته روی عکس
-
-چون:
-
-خوندنش راحت‌تره
-حرفه‌ای‌تر به نظر میاد
-تلگرام متن رو کامل نشون میده
-برای محصولات فله vs بسته‌بندی
-محصول فله:
-📸 عکس محصول روی ترازو
-🌴 خرمای مضافتی — فله
-⚖️ قیمت هر کیلو: xxx تومان
-📦 حداقل سفارش: ۵ کیلو
-محصول بسته‌بندی:
-📸 عکس بسته‌بندی
-🌴 خرمای مضافتی — بسته‌بندی بهداشتی
-⚖️ بسته ۵۰۰ گرمی: xxx تومان
-⚖️ بسته ۱ کیلویی: xxx تومان
-💡 نکته مهم
-برای جلب اعتماد مشتری، بهترین عکس‌ها اینان:
-
-عکس محصول روی ترازو ← نشون میده واقعیه
-عکس داخل جعبه یا کیسه ← نشون میده تمیز و بهداشتیه
-یه ویدیوی کوتاه از کیفیت محصول ← خیلی تاثیر داره
-محصولات فله‌ات بیشترن یا بسته‌بندی؟ تا بگم کدوم روش برات بهتره 🎯
-
-بیشتر فله
-
-05:07
-خوبه! برای فله چند نکته مهم:
-
-📸 عکس‌هایی که باید بگیری
-۱. عکس روی ترازو ← مهم‌ترین عکس
-نشون میده واقعی و امینه
-
-۲. عکس نزدیک (کلوزآپ) ← کیفیت محصول معلومه
-مشتری رنگ، درشتی و تازگی رو می‌بینه
-
-۳. عکس کیسه یا گونی ← حجم و موجودی معلومه
-
-📝 فرمت پست فله
-🌴 خرمای مضافتی — فله
-✅ تازه | درجه یک | مستقیم از باغ
-⚖️ قیمت هر کیلو: xxx تومان
-📦 حداقل سفارش: ۳ کیلو
-🚚 ارسال به سراسر ایران
-👇 برای سفارش پیام بده
-⚠️ یه نکته مهم برای فله
-حتماً بنویس:
-
-حداقل سفارش چقدره
-هزینه ارسال چطور حساب میشه
-آیا بسته‌بندی真空 میکنی یا نه
-چون مشتری برای خشکبار فله نگران بسته‌بندی و سالم رسیدنه 📦
-
-بسته‌بندی ارسالت الان چطوریه؟ کیسه معمولیه یا真空؟
-
-طبق سفارش از یک کیلو شروع میشه تا هر چند کیلو که مشتری بخواد
-
-05:09
-عالیه! این خیلی مزیت بزرگیه — حداقل سفارش ۱ کیلو خیلی مشتری جذب می‌کنه.
-
-📝 فرمت پست با این اطلاعات
-🌴 خرمای مضافتی — فله
-✅ تازه | درجه یک | مستقیم از باغ
-⚖️ قیمت هر کیلو: xxx تومان
-📦 از ۱ کیلو تا هر مقدار
-🚚 ارسال به سراسر ایران
-👇 برای سفارش پیام بده
-💡 این رو حتماً توی پست بنویس
-"از ۱ کیلو قبول می‌کنیم" — چون خیلی از مشتری‌ها فکر می‌کنن خشکبار فله فقط عمده‌فروشیه و جرأت نمی‌کنن سفارش بدن!
-
-الان یه سوال مهم:
-
-بسته‌بندی ارسالت چطوریه؟ چون مشتری آنلاین نگران اینه که محصول سالم و تمیز بهش برسه 📦
-
-بسته بندی داخل کیسه و وکیوم میشه
-
-05:09
-عالی! وکیوم خیلی مهمه و باید حتماً توی پست بهش اشاره کنی چون:
-
-مشتری مطمئن میشه محصول تازه و سالم میرسه
-از رقبا متمایز میشی
-اعتماد بیشتری جلب میکنی
-📝 فرمت پست آپدیت شده
-🌴 خرمای مضافتی — فله
-✅ تازه | درجه یک | مستقیم از باغ
-🔒 بسته‌بندی وکیوم بهداشتی
-⚖️ قیمت هر کیلو: xxx تومان
-📦 از ۱ کیلو تا هر مقدار
-🚚 ارسال به سراسر ایران
-👇 برای سفارش پیام بده
-📸 عکس‌هایی که باید داشته باشی
-برای هر محصول ۳ عکس بگیر:
-
-عکس	هدف
-محصول روی ترازو	نشون دادن وزن واقعی
-کلوزآپ محصول	نشون دادن کیفیت
-محصول داخل کیسه وکیوم	نشون دادن بسته‌بندی
-الان چند نوع محصول داری که بخوای شروع کنی؟ 🌴
-
-میخوام با 10 تا محصول شروع کنم
-
-05:10
-عالیه! ۱۰ تا محصول شروع خوبیه.
-
-📋 لیست ۱۰ محصول رو بنویس
-بگو چه محصولاتی داری تا با هم:
-
-فرمت پست هر کدوم رو بسازیم
-عکس‌های مناسب هر محصول رو مشخص کنیم
-ترتیب انتشار پست‌ها رو تنظیم کنیم
-مثلاً بنویس:
-
-۱. خرمای مضافتی
-۲. کشمش سبز
-۳. ...
-هر وقت لیست آماده شد شروع می‌کنیم! 🎯
-
-خوب بیا اول رباط تلگرام رو بسازیم و بهش شماره حساب نحوه ارسال و هر چیزی که لازم هستش رو اماده کنیم بعد من عکس و قیمت رو بهش اضافه کنم اول میخوام ببینم چه قابلیت های داره
-
-08:21
-عالیه! بذار اول ببینیم چه ربات‌سازی برات مناسبه.
-
-🤖 گزینه‌های ساخت ربات فروش
-گزینه ۱ — بدون کدنویسی (پیشنهاد من)
-چت‌افزار یا ربات‌پلاس (ایرانی)
-
-فارسیه
-درگاه پرداخت ایرانی داره
-بدون کدنویسی
-ماهانه هزینه داره
-گزینه ۲ — @BotFather تلگرام
-رایگانه
-نیاز به برنامه‌نویس داره
-هر قابلیتی می‌خوای میشه اضافه کرد
-گزینه ۳ — ربات آماده فروشگاهی
-@ShopBot تلگرام
-
-نسبتاً سادست
-رایگانه
-محدودیت داره
-❓ یه سوال مهم
-درگاه پرداخت آنلاین داری؟
-
-بله ← ربات با پرداخت آنلاین می‌سازیم
-نه ← ربات با کارت به کارت می‌سازیم
-این مهمه چون مسیر ساخت ربات فرق می‌کنه! 🎯
-
-درگاه پرداخت ندارم باهم بسازیم بیشتر کارت به کارت یا با شماره شبا انجام میشه
-
-08:23
-باشه! پس با کارت به کارت می‌سازیم — ساده‌ترین و سریع‌ترین روشه.
-
-🛠️ بهترین گزینه برای تو
-@BotFather — رایگان + من الان کدش رو برات آماده می‌کنم
-
-قابلیت‌هایی که ربات داره:
-✅ نمایش لیست محصولات
-✅ انتخاب محصول و وزن
-✅ گرفتن نام و آدرس مشتری
-✅ نمایش مبلغ نهایی
-✅ نمایش شماره کارت برای پرداخت
-✅ گرفتن عکس رسید پرداخت
-✅ ارسال سفارش به ادمین (تو)
-✅ پیام تأیید به مشتری
-📋 اطلاعاتی که الان نیاز دارم
-بهم بگو:
-
-۱. شماره کارت:
-۲. نام صاحب کارت:
-۳. هزینه ارسال چطور حساب میشه؟
-   (ثابته؟ بر اساس وزن؟ رایگانه؟)
-۴. چه شهرهایی ارسال داری؟
-این اطلاعات رو بده تا ربات رو کامل برات بسازم! 🎯
-
-6219861997075451
-شماره کارت بانک سامان 
-به نام عباس اسدپور
-هزینه ارسال با خریدار است خرید 20 کیلو به بالا با فروشنده
-همه شهرهای ایران
-
-08:25
-ممنون! یه سوال آخر:
-
-اسم کانال یا برند تجاریت چیه؟
-
-مثلاً:
-
-خشکبار اسدپور
-خرمای مضافتی اسدپور
-یا اسم دیگه‌ای داری؟
-تا ربات رو با اسم برندت بسازم 🎯
-
-خشکبار اسدپور
-
-08:26
-عالی! الان ربات رو برات می‌سازم 🎯
-
-قدم اول — ساخت ربات در تلگرام
-۱. برو توی تلگرام سرچ کن:
-
-@BotFather
-۲. بزن Start
-
-۳. بنویس:
-
-/newbot
-۴. اسم ربات رو بنویس:
-
-خشکبار اسدپور
-۵. یوزرنیم ربات رو بنویس:
-
-AsadpourDryFruitsBot
-۶. BotFather یه Token بهت میده — اون رو برام بفرست
-
-مثل این:
-
-7743521897:AAF_xxxxxxxxxxxxxxxxxxxxxxxxxxx
-⚠️ مهم: این Token رو فقط برای من بفرست و به کس دیگه‌ای نده — کلید اصلی رباته!
-
-هر وقت Token رو گرفتی بفرست تا ربات رو کامل برنامه‌ریزی کنم 🚀
-
-Done! Congratulations on your new bot. You will find it at t.me/AsadpourDryFruitsBot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
-
-Use this token to access the HTTP API:
-8944172746:AAEfxxdztcV3ccxPs-9f7TvK86yrN79fCu8
-Keep your token secure and store it safely, it can be used by anyone to control your bot.
-
-For a description of the Bot API, see this page: https://core.telegram.org/bots/api
-
-08:32
-عالی! ربات ساخته شد 🎉
-
-الان کد ربات رو برات می‌نویسم. یه لحظه صبر کن...
-
-
-Viewed a file, created a file, read a file
-Viewed a file, created a file, read a file
-ربات آماده شد! 🎉
-
-✅ قابلیت‌های ربات
-🛒 ثبت سفارش — مرحله به مرحله
-📋 لیست محصولات با قیمت
-📞 اطلاعات تماس و شرایط ارسال
-❓ راهنمای خرید
-💳 نمایش شماره کارت برای پرداخت
-📸 دریافت عکس رسید از مشتری
-🔔 ارسال سفارش کامل به ادمین (تو)
-✅ پیام تأیید به مشتری
-🚀 برای اجرای ربات
-باید ربات روی یه سرور نصب بشه. دو گزینه داری:
-
-گزینه ۱ — سرور ایرانی (ارزون‌تر)
-آروان‌کلاد یا لیارا
-
-گزینه ۲ — Railway.app (رایگان)
-خارجیه ولی رایگانه
-
-❓ یه سوال مهم
-الان به کامپیوتر دسترسی داری؟ چون باید ربات رو روی سرور نصب کنیم تا ۲۴ ساعته کار کنه. اگه بله، گام به گام راهنماییت می‌کنم! 🎯
-
-
-Asadpour bot
-PY 
-گزینه 2 
-بله کامپیوتر دارم
-
-08:34
-عالی! بریم Railway رو راه‌اندازی کنیم.
-
-قدم ۱ — ساخت اکانت Railway
-۱. برو به:
-
-railway.app
-۲. روی "Login" بزن
-
-۳. با گزینه "Login with GitHub" وارد شو
-
-اگه GitHub نداری:
-
-برو github.com
-یه اکانت رایگان بساز
-برگرد Railway و Login کن
-بگو وقتی وارد Railway شدی تا قدم بعدی رو بگم 🎯
-
-داخل گوشی بزنم یا کامپیوتر
-
-08:34
-کامپیوتر — چون باید فایل‌ها آپلود کنی و کار با گوشی سخته 😊
-
-برو سراغ کامپیوتر و بگو آماده‌ای تا شروع کنیم! 🎯
-
-کامپیوتر اماده است چیکار کنم
-
-08:44
-بریم! مرحله به مرحله:
-
-قدم ۱ — ساخت اکانت GitHub
-۱. برو به:
-
-github.com
-۲. روی "Sign up" بزن
-
-۳. اطلاعات بده:
-
-ایمیل
-پسورد
-یوزرنیم
-۴. ایمیلت رو تأیید کن
-
-بگو وقتی اکانت GitHub ساختی ✅
-
-20260619_1116413315373715597603850.jpg
-این امد
-
-08:46
-این صفحه BotFather هست — یعنی ربات تلگرامت قبلاً ساخته شده ✅
-
-الان باید بریم سراغ کامپیوتر
-روی کامپیوتر این کارها رو بکن:
-
-قدم ۱ — برو به github.com
-github.com
-روی Sign up بزن و اکانت بساز
-
-بگو وقتی اکانت GitHub آماده شد تا قدم بعدی رو بگم 🎯
-
-دوباره همان صفحه امد
-
-08:48
-نگران نباش! این یعنی GitHub قبلاً داری یا وارد شدی ✅
-
-الان توی کامپیوتر چی می‌بینی؟
-
-صفحه اصلی GitHub با Dashboard؟
-صفحه Login؟
-صفحه دیگه‌ای؟
-یه عکس بگیر و بفرست تا ببینم کجایی 📸
-
-20260619_1118467430239803111018872.jpg
-08:49
-این عکس از گوشیته، نه کامپیوتر 😊
-
-لطفاً روی کامپیوتر این کار رو بکن:
-
-مرورگر (Chrome یا Firefox) رو باز کن و بنویس:
-
-github.com
-بعد عکس از صفحه کامپیوتر بگیر و بفرست 📸
-
-20260619_112039167253334546997797.jpg
-08:50
-عالی! GitHub باز شد ✅
-
-قدم ۲ — ساخت اکانت
-۱. ایمیلت رو توی کادر "Enter your email" بنویس
-
-۲. روی دکمه سبز "Sign up for GitHub" بزن
-
-۳. مراحل ثبت‌نام رو کامل کن:
-
-پسورد بساز
-یوزرنیم انتخاب کن
-ایمیلت رو تأیید کن
-بگو وقتی اکانت ساختی و وارد شدی 🎯
-
-من جی میل دارم مشکلی نیست؟
-
-08:51
-نه اصلاً مشکلی نیست! Gmail کاملاً قبوله ✅
-
-ایمیل Gmail رو توی کادر بنویس و روی Sign up for GitHub بزن 🎯
-
-یک یوزرنیم بهم بگو همخونی داشته باشه با خشکبار
-
-08:56
-این یوزرنیم‌ها رو پیشنهاد می‌دم:
-
-AsadpourDryFruits
-AsadpourKhoshkbar
-XoshkbarAsadpour
-پیشنهاد من: AsadpourDryFruits — هم فارسی هم انگلیسی قابل فهمه 🎯
-
-20260619_1130082781518276457555484.jpg
-09:00
-روی "Visual puzzle" بزن و پازل رو حل کن — این فقط یه تأیید ساده‌ست که ربات نیستی 😊
-
-بعد بگو چی نشون داد 🎯
-
-20260619_1134125050664749015613460.jpg
-09:04
-عالی! کد تأیید به ایمیل a.asadpoor62@gmail.com فرستاده شد ✅
-
-Gmail رو باز کن و کد ۸ رقمی رو پیدا کن و اینجا وارد کن 🎯
-
-بعد روی Continue بزن و بگو چی نشون داد!
-
-20260619_1135384216949705376444125.jpg
-09:05
-اکانت GitHub ساخته شد! 🎉
-
-الان وارد بشو:
-
-Username or email: ایمیل یا یوزرنیمت رو بنویس
-Password: پسوردت رو بنویس
-روی Sign in بزن
-بگو وقتی وارد شدی ✅
-
-20260619_1137243326667903159360825.jpg
-09:07
-وارد GitHub شدی! 🎉
-
-قدم ۳ — ساخت Repository
-روی دکمه سبز "Create repository" بزن که سمت چپ می‌بینی 👈
-
-بگو وقتی زدی تا بگم چی پر کنی 🎯
-
-20260619_1138187090894058655635538.jpg
-09:08
-عالی! این فرم رو اینطوری پر کن:
-
-Repository name:
-
-asadpour-bot
-Description:
-
-Telegram bot for Asadpour Dry Fruits
-Visibility: همون Public بمونه ✅
-
-Add README: همون Off بمونه ✅
-
-بعد صفحه رو به پایین اسکرول کن و روی دکمه سبز "Create repository" بزن 🎯
-
-20260619_1141555666544217143048717.jpg
-09:12
-Repository ساخته شد! 🎉
-
-قدم ۴ — آپلود فایل ربات
-روی "uploading an existing file" بزن که وسط صفحه می‌بینی 👆
-
-بگو وقتی زدی 🎯
-
-20260619_114317410259704369687509.jpg
-09:13
-عالی! صفحه آپلود فایل آماده‌ست ✅
-
-قدم ۵ — آپلود فایل ربات
-اول باید فایل ربات رو روی کامپیوترت ذخیره کنی.
-
-۱. روی لینک زیر کلیک کن تا فایل دانلود بشه:
-
-فایل ربات رو که قبلاً ساختم دانلود کن — توی همین چت بالاتر هست، روی فایل asadpour_bot.py کلیک کن و دانلود کن.
-
-۲. بعد از دانلود:
-
-فایل رو از پوشه Downloads بکش و توی کادر "Drag files here" رها کن
-بگو وقتی فایل رو دانلود کردی 🎯
-
-لینک کجاست نمیبینم
-
-09:15
-فایل رو الان اینجا میذارم، روش کلیک کن و دانلود کن:
-
-
-Presented file
-Presented file
-روی asadpour bot بالا کلیک کن و دانلود کن 👆
-
-بعد بگو دانلود شد 🎯
-
-
-Asadpour bot
-PY 
-20260619_115150517570978035788489.jpg
-فایل اینجا باز شده ولی عباس اسدپور نمی بینم
-
-09:22
-فایل به صورت PDF باز شده — این مشکلی نیست! 😊
-
-فایل دانلود شده، فقط باید پیداش کنیم.
-
-این کارو بکن:
-۱. پنجره PDF رو ببند
-
-۲. روی آیکون پوشه زرد رنگ پایین صفحه کلیک کن (File Explorer)
-
-۳. برو به پوشه Downloads
-
-۴. فایل asadpour_bot.py رو پیدا کن
-
-بعد اون فایل رو بکش و بنداز توی صفحه GitHub که قبلاً باز بود 🎯
-
-روی کامپیوتر باید انجام بدم؟
-
-09:23
-بله! همه این کارها روی کامپیوتر انجام میشه 😊
-
-الان روی کامپیوتر:
-
-۱. پنجره PDF رو ببند
-
-۲. پایین صفحه این آیکون رو پیدا کن و کلیک کن:
-
-پوشه زرد رنگ 📁 (File Explorer)
-
-عکس بگیر و بفرست تا ببینم کجایی 🎯
-
-20260619_1154382369966436473423200.jpg
-09:24
-عالی! File Explorer باز شد ✅
-
-روی پوشه Downloads کلیک کن — فایل ربات اونجاست 🎯
-
-20260619_1155185279004855588426001.jpg
-09:25
-فایل ربات اینجا نیست! 😊 احتمالاً دانلود نشده.
-
-الان این کارو بکن:
-۱. توی مرورگر (Chrome/Edge) برگرد به همین چت
-
-۲. بالاتر توی چت فایل رو پیدا کن و روش کلیک کن:
-
-یا همین الان روی این دکمه زیر کلیک کن:
-
-
-Presented file
-Presented file
-روی asadpour bot کلیک کن و گزینه Download رو بزن تا فایل توی Downloads ذخیره بشه 🎯
-
-
-Asadpour bot
-PY 
-مشکل اینه من نمیتونم فایل رو از کوشی به کامپیوتر انتقال بدم
-
-09:29
-نگران نباش! نیازی به انتقال از گوشی نیست 😊
-
-فایل رو مستقیم روی کامپیوتر دانلود می‌کنیم.
-
-روی کامپیوتر:
-۱. مرورگر کامپیوتر رو باز کن
-
-۲. برو به:
-
-claude.ai
-۳. با همون اکانتت وارد شو
-
-۴. همین مکالمه رو پیدا کن
-
-۵. روی فایل asadpour bot کلیک کن و دانلود کن
-
-آیا روی کامپیوتر به اینترنت وصلی؟ 🎯
-
-20260619_1203314544412054769278442.jpg
-09:33
-باید کد تأیید رو از Gmail بگیری.
-
-۱. Gmail رو روی کامپیوتر باز کن:
-
-gmail.com
-۲. با a.asadpoor62@gmail.com وارد شو
-
-۳. ایمیل از Claude رو پیدا کن و کد رو کپی کن
-
-۴. کد رو اینجا وارد کن و روی Verify Email Address بزن
-
-بگو وقتی وارد Claude شدی 🎯
-
-20260619_1208391283074807155166073.jpg
-پسورد رو فراموش کردم
-
-09:38
-نگران نباش! 😊
-
-روی "Try another way" کلیک کن
-
-گزینه‌های دیگه‌ای میده مثل ارسال کد به گوشی یا ایمیل که بدون پسورد وارد بشی 🎯
-
-20260619_1209525697932660347611796.jpg
-09:40
-روی "Try another way" کلیک کن 👆
-
-کد به گوشیت میفرسته و بدون پسورد وارد میشی 🎯
-
-وارد شد
-
-09:41
-عالی! 🎉
-
-الان توی Claude روی کامپیوتر هستی؟
-
-اگه بله، همین مکالمه رو پیدا کن — باید توی لیست چت‌های سمت چپ باشه.
-
-بعد روی فایل asadpour bot کلیک کن و دانلود کن 🎯
-
-20260619_1212367389469499617344755.jpg
-09:42
-عالی! وارد Claude شدی 🎉
-
-روی اولین چت "استفاده از تلگرام پرمیوم برای تجارت" کلیک کن — همین مکالمه ماست! 🎯
-
-دانلود نمیشه خطا میزنه
-
-09:47
-نگران نباش! یه روش دیگه داریم 😊
-
-روش جایگزین — ساخت فایل مستقیم روی کامپیوتر
-۱. روی کامپیوتر کلیک راست کن روی Desktop
-
-۲. روی "New" بزن
-
-۳. روی "Text Document" بزن
-
-۴. اسمش رو بذار:
-
-asadpour_bot.py
-بگو وقتی فایل ساخته شد تا محتوا رو بهت بدم 🎯
-
-فایل ساخته شد
-
-09:50
-عالی! ✅
-
-۱. روی فایل دابل کلیک کن تا باز بشه
-
-۲. اگه با Notepad باز شد عالیه
-
-۳. اگه سوال پرسید با چه برنامه‌ای باز کنم — Notepad رو انتخاب کن
-
-بگو وقتی Notepad باز شد 🎯
-
-الان یک صفه خالی باز شد
-
-09:52
-عالی! ✅
-
-حالا تمام این متن رو کپی کن و توی Notepad پیست کن:
-
-Ctrl+A بزن تا همه انتخاب بشه، بعد Ctrl+C کپی کن، بعد توی Notepad Ctrl+V پیست کن.
-
-
-Presented file
-Presented file
-روی asadpour bot بالا کلیک کن — این بار باید محتوای فایل رو نشون بده. اون متن رو کپی کن و توی Notepad پیست کن 🎯
-
-
-Asadpour bot
-PY 
-کپی نمیشه
-
-10:00
-باشه! من کد رو اینجا میذارم، تو فقط کپی کن:
-
-اول یه کار مهم بکن:
-
-توی Notepad که بازه، این متن رو تایپ کن:
-
-test
-بعد Ctrl+S بزن تا ذخیره بشه.
-
-بعد بگو تا کد رو به روش دیگه‌ای بهت بدم 🎯
-
-راستی یه سوال — مرورگرت روی کامپیوتر Chrome هست یا Edge؟
-
-تایپ کردم و کنترل س رو زدم
-
-10:02
-عالی! ✅
-
-حالا یه روش ساده‌تر برای کپی کردن کد:
-
-۱. توی مرورگر کامپیوتر این آدرس رو باز کن:
-
-raw.githubusercontent.com
-صبر کن — اول بذار فایل رو توی GitHub آپلود کنم تا راحت‌تر دانلود کنی.
-
-در واقع ساده‌ترین روش اینه:
-
-توی مرورگر کامپیوتر برو به این آدرس:
-
-pastebin.com
-من کد رو اونجا میذارم و تو فقط یه کلیک دانلود می‌کنی — بدون هیچ مشکلی!
-
-آیا pastebin.com باز میشه روی کامپیوترت؟ 🎯
-
-pastebin.com
-
-10:03
-عالی! باز شد؟ عکس بگیر و بفرست ببینم چی نشون میده 📸
-
-باز شد
-
-10:03
-عالی! ✅
-
-الان کد رو آماده می‌کنم و لینک بهت میدم.
-
-یه لحظه صبر کن... 🎯
-
-
-Create a simple requirements file
-Create a simple requirements file
-متأسفانه من نمیتونم مستقیم توی pastebin آپلود کنم.
-
-ولی یه روش خیلی ساده‌تر داریم! 😊
-
-ساده‌ترین روش
-توی کامپیوتر این آدرس رو باز کن:
-
-t.me/AsadpourDryFruitsBot
-بعد من از یه روش دیگه ربات رو راه‌اندازی می‌کنم که اصلاً نیاز به فایل و GitHub نداشته باشه!
-
-یه سوال مهم:
-
-آیا روی کامپیوترت Python نصبه؟ توی Search پایین صفحه بنویس python و ببین چی میاد 🎯
-
-20260619_1236153496105520786966820.jpg
-این باز شد
-
-10:06
-ربات تلگرامت رو میبینم — Khoshkbar Asadpour ✅
-
-این فقط صفحه معرفی ربوته، ولی ربات هنوز کد نداره و کار نمیکنه.
-
-بهترین راه حل
-برای اجرای ربات به یه سرور نیاز داریم. پیشنهاد می‌کنم از Railway استفاده کنیم که قبلاً گفتیم.
-
-روی کامپیوتر این آدرس رو باز کن:
-
-railway.app
-عکس بگیر و بفرست 🎯
-
-20260619_1238388512827806025853975.jpg
-10:08
-عالی! Railway باز شد و میبینم قبلاً وارد شدی ✅
-
-پایین صفحه "New Project" رو میبینم!
-
-روی "New Project" کلیک کن 🎯
-
-New Project پایین صفحه نیست
-
-10:13
-روی "Deploy" بزن که وسط صفحه هست 🎯
-
-20260619_1244057398506173442238184.jpg
-10:14
-عالی! روی "GitHub Repository" کلیک کن 🎯
-
-20260619_1244501457582113858481473.jpg
-10:15
-روی "Login with GitHub" کلیک کن 🎯
-
-20260619_1245362623536570304551423.jpg
-10:15
-روی دکمه سبز "Authorize" کلیک کن 🎯
-
-20260619_1246158625782726525817410.jpg
-10:16
-صفحه قوانین Railway باز شد ✅
-
-صفحه رو به پایین اسکرول کن تا دکمه تأیید ظاهر بشه و روش کلیک کن 🎯
-
-20260619_1247129132806949946663493.jpg
-10:17
-روی دکمه بنفش "I agree with Railway's Terms of Service" کلیک کن 🎯
-
-20260619_124748969929692630023127.jpg
-10:18
-میگه "No repositories found" چون هنوز فایل رو توی GitHub آپلود نکردیم.
-
-روی "Configure GitHub App" کلیک کن 🎯
-
-20260619_1248519130380354228641901.jpg
-10:19
-عالی! ✅
-
-All repositories انتخاب شده — خوبه!
-
-صفحه رو به پایین اسکرول کن و روی دکمه "Install & Authorize" کلیک کن 🎯
-
-20260619_1249477872155718727772454.jpg
-10:20
-وارد Railway شدی! 🎉
-
-ولی یه نکته مهم — میبینم "30 days or $5.00 left" — یعنی رایگانه ولی محدودیت داره.
-
-قبل از هر کار، باید فایل ربات رو توی GitHub آپلود کنیم.
-
-یه تب جدید باز کن و برو به:
-
-github.com/AsadpourDryfruits/asadpour-bot
-بگو وقتی باز شد 🎯
-
-20260619_1251434184021701610461624.jpg
-10:22
-عالی! GitHub repository باز شد ✅
-
-حالا روی "creating a new file" کلیک کن که وسط صفحه می‌بینی 🎯
-
-20260619_1252517961833536459841164.jpg
-10:23
-عالی! صفحه ایجاد فایل باز شد ✅
-
-اول اسم فایل رو بنویس:
-
-روی کادر "Name your file..." کلیک کن و بنویس:
-
-requirements.txt
-بگو وقتی نوشتی تا محتوا رو بدم 🎯
-
-نوشتم
-
-10:25
-حالا روی کادر بزرگ سفید (محتوای فایل) کلیک کن و این رو بنویس:
-
-python-telegram-bot==20.7
-بگو وقتی نوشتی ✅
-
-نوشتم
-
-10:27
-عالی! حالا صفحه رو به پایین اسکرول کن و روی دکمه سبز "Commit changes" کلیک کن 🎯
-
-20260619_1257372574830615539946751.jpg
-دکمه سبز بالا سمت راست هستش
-
-10:28
-روی دکمه سبز "Commit changes..." بالا سمت راست کلیک کن 🎯
-
-20260619_1258185436508124928428500.jpg
-10:28
-روی دکمه سبز "Commit changes" پایین سمت راست کلیک کن 🎯
-
-چپ کلیک زدم اشتباه شد؟
-
-10:29
-نه اشکالی نداره! 😊
-
-دکمه "Commit changes" سمت راست پایین پنجره هست — روی اون کلیک کن 🎯
-
-20260619_1300202744025787793173708.jpg
-این پنجره باز شد
-
-10:30
-عالی! فایل requirements.txt آپلود شد! 🎉
-
-حالا باید فایل اصلی ربات رو اضافه کنیم.
-
-روی دکمه "+" کنار "Go to file" کلیک کن 🎯
-
-زدم
-
-10:31
-چی نشون داد؟ عکس بگیر و بفرست 📸
-
-20260619_1302034551265690822880629.jpg
-10:32
-روی "Create new file" کلیک کن 🎯
-
-20260619_1302483198350583879503190.jpg
-10:33
-عالی! ✅
-
-روی کادر "Name your file..." کلیک کن و بنویس:
-
-main.py
-بگو وقتی نوشتی 🎯
-
-نوشتم
-
-10:33
-حالا روی کادر بزرگ سفید (محتوای فایل) کلیک کن.
-
-بعد Ctrl+A بزن تا همه انتخاب بشه، بعد این متن رو کپی کن و Ctrl+V بزن:
-
-ولی چون کپی مشکل داری، کد رو خط به خط بهت میدم.
-
-یه راه بهتر:
-
-روی کادر محتوا کلیک کن و کلیک راست بزن — گزینه Paste هست؟
-
-اگه بله، من کد رو اینجا میذارم و تو کپی-پیست می‌کنی 🎯
-
-بله گزینه paste هستش
-
-10:35
-عالی! 🎉
-
-پس این مراحل رو انجام بده:
-
-۱. روی متن زیر کلیک کن و Ctrl+A بزن تا همه انتخاب بشه
-
-۲. بعد Ctrl+C بزن
-
-۳. بعد توی GitHub کلیک راست و Paste بزن
-
-کد اینجاست — روی کادر زیر کلیک کن:
-
-
-Presented file
-Presented file
-روی asadpour bot کلیک کن — فایل باز میشه — بعد Ctrl+A و Ctrl+C بزن و توی GitHub پیست کن 🎯
-
-
-Asadpour bot
-PY 
-کد رو اینجا بفرست
-
-10:37
-باشه! کد رو اینجا میذارم. روی متن کلیک کن، همه رو انتخاب کن و کپی کن:
-
-python
 import logging
 from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
-from telegram.ext import (
-    Application, CommandHandler, MessageHandler, 
-    filters, ContextTypes, ConversationHandler, CallbackQueryHandler
-)
+from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler, CallbackQueryHandler
 
 TOKEN = "8944172746:AAEfxxdztcV3ccxPs-9f7TvK86yrN79fCu8"
 ADMIN_CHAT_ID = None
-
 CARD_NUMBER = "6219-8619-9707-5451"
-CARD_NAME = "عباس اسدپور"
-CARD_BANK = "بانک سامان"
-
+CARD_NAME = "Abbas Asadpour"
+CARD_BANK = "Bank Saman"
 CHOOSE_PRODUCT, CHOOSE_WEIGHT, GET_NAME, GET_PHONE, GET_ADDRESS, GET_RECEIPT = range(6)
-
 PRODUCTS = {
-    "1": {"name": "خرمای مضافتی", "price": 0, "unit": "کیلو"},
-    "2": {"name": "کشمش سبز", "price": 0, "unit": "کیلو"},
-    "3": {"name": "خرمای کبکاب", "price": 0, "unit": "کیلو"},
-    "4": {"name": "خرمای پیارم", "price": 0, "unit": "کیلو"},
-    "5": {"name": "توت خشک", "price": 0, "unit": "کیلو"},
+    "1": {"name": "Khormaye Mazafati", "price": 0, "unit": "kilo"},
+    "2": {"name": "Keshmesh Sabz", "price": 0, "unit": "kilo"},
+    "3": {"name": "Khormaye Kabkab", "price": 0, "unit": "kilo"},
+    "4": {"name": "Khormaye Piyaram", "price": 0, "unit": "kilo"},
+    "5": {"name": "Toot Khoshk", "price": 0, "unit": "kilo"},
 }
-
 logging.basicConfig(level=logging.INFO)
 user_orders = {}
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    global ADMIN_CHAT_ID
-    keyboard = [
-        [KeyboardButton("🛒 ثبت سفارش")],
-        [KeyboardButton("📋 لیست محصولات"), KeyboardButton("📞 تماس با ما")],
-        [KeyboardButton("❓ راهنما")]
-    ]
+    keyboard = [[KeyboardButton("Order")],[KeyboardButton("Products"), KeyboardButton("Contact")],[KeyboardButton("Help")]]
     reply_markup = ReplyKeyboardMarkup(keyboard, resize_keyboard=True)
-    await update.message.reply_text(
-        "🌴 به فروشگاه خشکبار اسدپور خوش آمدید!\n\n"
-        "✅ خرمای درجه یک مستقیم از باغ\n"
-        "✅ بسته‌بندی وکیوم بهداشتی\n"
-        "✅ ارسال به سراسر ایران\n"
-        "✅ از ۱ کیلو قبول می‌کنیم\n\n"
-        "برای شروع یکی از گزینه‌ها رو انتخاب کن 👇",
-        reply_markup=reply_markup
-    )
+    await update.message.reply_text("Welcome to Asadpour Dry Fruits!\n\nFresh dates directly from garden\nVacuum packaging\nShipping all over Iran\nMinimum order 1 kg\n\nChoose an option:", reply_markup=reply_markup)
 
 async def show_products(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    text = "📋 لیست محصولات خشکبار اسدپور\n\n"
+    text = "Product List:\n\n"
     for key, product in PRODUCTS.items():
-        price_text = f"{product['price']:,} تومان" if product['price'] > 0 else "تماس بگیرید"
-        text += f"{key}. {product['name']} — {price_text} / {product['unit']}\n"
-    text += "\n🔒 بسته‌بندی وکیوم بهداشتی\n"
-    text += "📦 از ۱ کیلو قبول می‌کنیم\n"
-    text += "🚚 ارسال به سراسر ایران\n"
+        price_text = f"{product['price']:,} Toman" if product['price'] > 0 else "Contact us"
+        text += f"{key}. {product['name']} - {price_text} per {product['unit']}\n"
+    text += "\nVacuum packaging\nMinimum 1 kg\nShipping all over Iran"
     await update.message.reply_text(text)
 
 async def contact_us(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(
-        "📞 تماس با خشکبار اسدپور\n\n"
-        "👤 عباس اسدپور\n"
-        "⏰ شنبه تا پنجشنبه: ۸ صبح تا ۹ شب\n\n"
-        "🚚 شرایط ارسال:\n"
-        "زیر ۲۰ کیلو: هزینه ارسال با خریدار\n"
-        "۲۰ کیلو به بالا: ارسال رایگان\n"
-        "ارسال به سراسر ایران"
-    )
+    await update.message.reply_text("Contact Asadpour Dry Fruits\n\nAbbas Asadpour\nSaturday to Thursday: 8am to 9pm\n\nShipping:\nUnder 20kg: buyer pays shipping\n20kg and above: free shipping\nShipping all over Iran")
 
 async def help_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text(
-        "راهنمای خرید\n\n"
-        "1 روی ثبت سفارش بزن\n"
-        "2 محصول رو انتخاب کن\n"
-        "3 وزن رو وارد کن\n"
-        "4 اطلاعات ارسال رو وارد کن\n"
-        "5 مبلغ رو به کارت واریز کن\n"
-        "6 عکس رسید رو بفرست\n"
-        "7 سفارش تایید میشه"
-    )
+    await update.message.reply_text("How to order:\n1. Press Order\n2. Choose product\n3. Enter weight\n4. Enter delivery info\n5. Pay to card\n6. Send receipt photo\n7. Order confirmed")
 
 async def start_order(update: Update, context: ContextTypes.DEFAULT_TYPE):
     keyboard = []
     for key, product in PRODUCTS.items():
-        price_text = f" — {product['price']:,} ت" if product['price'] > 0 else ""
+        price_text = f" - {product['price']:,}" if product['price'] > 0 else ""
         keyboard.append([InlineKeyboardButton(f"{product['name']}{price_text}", callback_data=f"product_{key}")])
-    keyboard.append([InlineKeyboardButton("انصراف", callback_data="cancel")])
-    reply_markup = InlineKeyboardMarkup(keyboard)
-    await update.message.reply_text("ثبت سفارش\n\nکدام محصول می‌خواهید؟", reply_markup=reply_markup)
+    keyboard.append([InlineKeyboardButton("Cancel", callback_data="cancel")])
+    await update.message.reply_text("Which product do you want?", reply_markup=InlineKeyboardMarkup(keyboard))
     return CHOOSE_PRODUCT
 
 async def choose_product(update: Update, context: ContextTypes.DEFAULT_TYPE):
     query = update.callback_query
     await query.answer()
     if query.data == "cancel":
-        await query.edit_message_text("سفارش لغو شد.")
+        await query.edit_message_text("Order cancelled.")
         return ConversationHandler.END
     product_key = query.data.replace("product_", "")
     product = PRODUCTS[product_key]
     user_orders[query.from_user.id] = {"product_key": product_key, "product": product}
-    await query.edit_message_text(f"محصول: {product['name']}\n\nچند کیلو می‌خواهید؟ (مثلا: 3)")
+    await query.edit_message_text(f"Product: {product['name']}\n\nHow many kg? (example: 3)")
     return CHOOSE_WEIGHT
 
-async def choose_weight(update: Update, context:
+async def choose_weight(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    try:
+        weight = float(update.message.text.replace(",", "."))
+        if weight <= 0:
+            raise ValueError
+    except ValueError:
+        await update.message.reply_text("Please enter a number. Example: 2")
+        return CHOOSE_WEIGHT
+    user_id = update.message.from_user.id
+    order = user_orders[user_id]
+    order["weight"] = weight
+    product = order["product"]
+    if product["price"] > 0:
+        total = product["price"] * weight
+        order["total"] = total
+        price_text = f"Amount: {total:,.0f} Toman\n"
+    else:
+        price_text = "Price will be confirmed later\n"
+        order["total"] = 0
+    await update.message.reply_text(f"Weight: {weight} kg\n{price_text}\nEnter your full name:")
+    return GET_NAME
 
+async def get_name(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    name = update.message.text.strip()
+    if len(name) < 3:
+        await update.message.reply_text("Please enter your full name.")
+        return GET_NAME
+    user_orders[update.message.from_user.id]["name"] = name
+    await update.message.reply_text(f"Name: {name}\n\nEnter your phone number:")
+    return GET_PHONE
 
+async def get_phone(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    phone = update.message.text.strip().replace("-", "").replace(" ", "")
+    if len(phone) < 10:
+        await update.message.reply_text("Please enter a valid phone number. Example: 09123456789")
+        return GET_PHONE
+    user_orders[update.message.from_user.id]["phone"] = phone
+    await update.message.reply_text(f"Phone: {phone}\n\nEnter your full address:")
+    return GET_ADDRESS
 
+async def get_address(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    address = update.message.text.strip()
+    if len(address) < 10:
+        await update.message.reply_text("Please enter a more complete address.")
+        return GET_ADDRESS
+    user_id = update.message.from_user.id
+    order = user_orders[user_id]
+    order["address"] = address
+    product = order["product"]
+    weight = order["weight"]
+    total = order.get("total", 0)
+    shipping = "Free shipping!" if weight >= 20 else "Shipping cost paid by buyer"
+    payment_text = f"Amount: {total:,.0f} Toman" if total > 0 else "Amount will be confirmed"
+    await update.message.reply_text(f"Order Summary:\n\nProduct: {product['name']}\nWeight: {weight} kg\nName: {order['name']}\nPhone: {order['phone']}\nAddress: {address}\n\n{shipping}\n{payment_text}\n\nPayment Info:\nBank: {CARD_BANK}\nCard: {CARD_NUMBER}\nName: {CARD_NAME}\n\nPlease send receipt photo after payment.")
+    return GET_RECEIPT
 
+async def get_receipt(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.message.from_user.id
+    order = user_orders.get(user_id, {})
+    if not update.message.photo:
+        await update.message.reply_text("Please send a photo of your payment receipt.")
+        return GET_RECEIPT
+    if ADMIN_CHAT_ID:
+        product = order.get("product", {})
+        total = order.get("total", 0)
+        total_text = f"{total:,.0f} Toman" if total > 0 else "Pending"
+        caption = f"NEW ORDER\n\nProduct: {product.get('name', '-')}\nWeight: {order.get('weight', '-')} kg\nAmount: {total_text}\nName: {order.get('name', '-')}\nPhone: {order.get('phone', '-')}\nAddress: {order.get('address', '-')}\nUser: @{update.message.from_user.username or 'none'}"
+        await context.bot.send_photo(chat_id=ADMIN_CHAT_ID, photo=update.message.photo[-1].file_id, caption=caption)
+    await update.message.reply_text("Your order has been registered!\nWill be confirmed within 2 hours.\nThank you!")
+    if user_id in user_orders:
+        del user_orders[user_id]
+    return ConversationHandler.END
 
-Claude is AI and can make mistakes. Please double-check responses.
+async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    user_id = update.message.from_user.id
+    if user_id in user_orders:
+        del user_orders[user_id]
+    await update.message.reply_text("Order cancelled.")
+    return ConversationHandler.END
+
+async def set_admin(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    global ADMIN_CHAT_ID
+    ADMIN_CHAT_ID = update.message.chat_id
+    await update.message.reply_text(f"You are now admin! ID: {ADMIN_CHAT_ID}")
+
+def main():
+    app = Application.builder().token(TOKEN).build()
+    conv_handler = ConversationHandler(
+        entry_points=[MessageHandler(filters.Regex("^Order$"), start_order)],
+        states={
+            CHOOSE_PRODUCT: [CallbackQueryHandler(choose_product)],
+            CHOOSE_WEIGHT: [MessageHandler(filters.TEXT & ~filters.COMMAND, choose_weight)],
+            GET_NAME: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_name)],
+            GET_PHONE: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_phone)],
+            GET_ADDRESS: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_address)],
+            GET_RECEIPT: [MessageHandler(filters.PHOTO, get_receipt)],
+        },
+        fallbacks=[CommandHandler("cancel", cancel)],
+    )
+    app.add_handler(CommandHandler("start", start))
+    app.add_handler(CommandHandler("admin", set_admin))
+    app.add_handler(conv_handler)
+    app.add_handler(MessageHandler(filters.Regex("^Products$"), show_products))
+    app.add_handler(MessageHandler(filters.Regex("^Contact$"), contact_us))
+    app.add_handler(MessageHandler(filters.Regex("^Help$"), help_command))
+    print("Bot started!")
+    app.run_polling()
+
+if __name__ == "__main__":
+    main()
