@@ -144,7 +144,7 @@ def main():
             GET_PHONE: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_phone)],
             GET_ADDRESS: [MessageHandler(filters.TEXT & ~filters.COMMAND, get_address)],
             GET_RECEIPT: [MessageHandler(filters.PHOTO, get_receipt)],
-        },
+        app = Application.builder().token(TOKEN).updater(None).build()
         fallbacks=[CommandHandler("cancel", cancel)],
     )
     app.add_handler(CommandHandler("start", start))
